@@ -214,7 +214,7 @@ Example: `r;linux;top;week` goes to `reddit.com/r/linux/top?t=week`
  
 ---
 
-#### Last.fm
+#### last.fm
 `last [;user]`
 
  - **user** - Last.fm user
