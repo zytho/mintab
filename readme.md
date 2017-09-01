@@ -3,5 +3,12 @@
 ### What
 a _really_ minimal [startpage][mintab]
 
-[mintab]: https://koryschneider.github.io/mintab
-[chrome ext]: https://chrome.google.com/webstore/detail/mintab/ggkhmapnplaljplbhkbdjkbjadbhadap
+Original at [original]
+
+Current changes:
+* Added 4chan support
+* Added last.fm support
+* Changed the index.html file to be readable and editable without rebuilding
+
+[mintab]: https://zytho.github.io/mintab/
+[original]: https://github.com/KorySchneider/mintab

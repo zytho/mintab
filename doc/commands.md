@@ -45,6 +45,7 @@ Arguments in [brackets] are optional. Vertical pipes (`|`) mean 'or'.
    - [Google Images](#google-images)
    - [Google Calendar](#google-calendar)
    - [4chan](#4chan)
+   - [last.fm] (#last-fm)
 
 ---
 
@@ -210,5 +211,12 @@ Example: `r;linux;top;week` goes to `reddit.com/r/linux/top?t=week`
 `4 [;board]`
 
  - **board** - 4chan board
+ 
+---
+
+#### Last.fm
+`last [;user]`
+
+ - **user** - Last.fm user
  
 ---
