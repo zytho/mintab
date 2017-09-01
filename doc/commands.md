@@ -45,7 +45,7 @@ Arguments in [brackets] are optional. Vertical pipes (`|`) mean 'or'.
    - [Google Images](#google-images)
    - [Google Calendar](#google-calendar)
    - [4chan](#4chan)
-   - [last.fm] (#lastfm)
+   - [last] (#lastfm)
 
 ---
 
