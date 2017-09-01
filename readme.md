@@ -3,7 +3,7 @@
 ### What
 a _really_ minimal [startpage][mintab]
 
-Original[original]
+[Original][original]
 
 Current changes:
 * Added 4chan support
